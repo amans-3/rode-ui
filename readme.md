@@ -2,7 +2,7 @@
 
 ### I have build this entire UI of Rode website with tailwind CSS.
 
-[Live Link](https://rode-website-clone.vercel.app/)
+[Live Link](https://rode-ui.vercel.app/)
 
 ### Time-taken: 3 hrs
 
